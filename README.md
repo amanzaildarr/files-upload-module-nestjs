@@ -1,5 +1,3 @@
-Here’s a sample README file for your MediaModule in NestJS:
-
 Media Module
 
 The MediaModule is a part of a NestJS application that provides media file handling services, including uploading and deleting files in AWS S3. This module is global and can be used across other modules in the application. It includes a REST API for uploading and removing media files.
@@ -107,5 +105,3 @@ Dependencies
 License
 
 This project is licensed under the MIT License.
-
-This README should provide a clear overview of the module’s functionality, setup, and usage. Let me know if you need more specific details!
